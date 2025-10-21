@@ -2,7 +2,7 @@ const firstName = "Daviti";
 const lastName = "Peradze";
 let age = 17;
 const myEmail = "datopera77@gmail.com";
-const myNumber = 555991719;
+const myNumber = "+995555991719";
 const isAdult = true;
 
 console.log("First Name:", firstName);
